@@ -25,7 +25,7 @@ This assumes a usb XBOX style gamepad, though other input configurations can be 
 
 [see video](http://gfycat.com/FlimsyKnobbyCondor)  
 ![tank movement](http://zippy.gfycat.com/FlimsyKnobbyCondor.gif)  
-_notice how reverse is set to a slower speed than forward_
+_notice how the turret "sticks" to the tank base when the base rotates_
 
 
 Plug in a usb gamepad.  
